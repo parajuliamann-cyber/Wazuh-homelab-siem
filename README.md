@@ -1,7 +1,7 @@
 # Wazuh-homelab-siem
-Home SIEM lab build using Wazuh + docker on mac0S 
+Home SIEM lab build using Wazuh + docker on macOS 
 ## OverView
-Self hosted deployment of SIEM platform using Wazuhrunning on docker on Apple Silicon Mac.
+Self hosted deployment of SIEM platform using Wazuh running on docker on Apple Silicon Mac.
 Enrolled a host machine and checked if system correctly detects and logs suspicious activities
 
 ## WHY Docker
